@@ -1,9 +1,9 @@
-# 32 Bit FLoating Point Adder
+# 32 Bit Floating Point Adder
 ### Author: Evan Gilbert
 ### Github: e-tachyon
 
 ## Description:
-32 bit(parameterizable) adder targetig IEEE 754 standerds. It is purely combinational to simplify logic and testing.
+32 bit (parameterizable) floating point adder targetig IEEE 754 standerds. It is purely combinational to simplify logic and testing.
 This was verified through simulation only and not targeting any specific system. The project was done with
 the intention of learning some the OOP aspects of Systemverilog so that I am more comfortable learning UVM.
 
