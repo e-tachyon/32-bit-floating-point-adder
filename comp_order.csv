@@ -1,0 +1,5 @@
+work, ./tb/sim_package.sv
+work, ./interfaces/fp32_interface.sv
+work, ./interfaces/clk_interface.sv
+work, ./src/fp32_add.sv
+work, ./tb/fp32_add_tb.sv
